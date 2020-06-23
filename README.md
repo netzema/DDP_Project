@@ -11,3 +11,7 @@ The data used for the interactive plot is from the mtcars dataset which comes pr
 ## Guide
 
 You can highlight an area in the plot and you will get a linear regresson model showing the relationship between mpg and hp for the selected points. You will also get a regression line for only the selected points.
+
+## Link to the Application
+
+https://netzema.shinyapps.io/ddp_project/
